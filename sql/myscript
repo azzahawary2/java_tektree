@@ -1,0 +1,6 @@
+-- rollback script
+DROP DATABASE if exists `coursework`; 
+-- update script
+CREATE DATABASE `coursework`;
+
+
